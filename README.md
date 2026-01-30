@@ -110,19 +110,6 @@ Full-stack blogging platform for creating, reading, and managing blogs
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=im-h-a-r-s-h&show_icons=true&theme=radical&rank_icon=github&custom_title=Harsh%27s%20GitHub%20Stats" width="48%" />
-
-<img src="https://streak-stats.demolab.com?user=im-h-a-r-s-h&theme=flames&date_format=M%20j%5B%2C%20Y%5D&border=DD2727" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-h-a-r-s-h&layout=donut&theme=radical&hide=css,html&langs_count=6" width="50%" />
-
-</div>
 
 ---
 
