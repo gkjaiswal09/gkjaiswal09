@@ -23,7 +23,7 @@
 
 ## ✨ About Me
 
-🎓 **B.Tech (CSE)** | PSIT Kanpur - **CGPA: 8.5/10**  
+🎓 **B.Tech (CSE)** | PSIT Kanpur - **CGPA: 7.7/10**  
 🚀 Love building real-world apps - ChatNest, Blogify  
 🧠 Strong understanding of **DSA, DBMS, OS, OOPS**  
 📸 Working on **Alzheimer Detection** and **3D medical reconstruction**  
