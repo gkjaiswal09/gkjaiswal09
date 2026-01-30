@@ -110,12 +110,4 @@ Full-stack blogging platform for creating, reading, and managing blogs
 
 
 
-## 📈 GitHub Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=im-h-a-r-s-h&theme=tokyo-night&hide_border=true" />
-</div>
-
----
-
 > 🌱 *"The future belongs to those who learn, unlearn, and relearn faster than the world changes."*  
