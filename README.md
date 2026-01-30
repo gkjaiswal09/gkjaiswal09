@@ -108,10 +108,7 @@ Full-stack blogging platform for creating, reading, and managing blogs
 - Online/offline status  
 - MERN + Socket.io + JWT  
 
----
 
-
----
 
 ## 📈 GitHub Contribution Graph
 
